@@ -1,4 +1,4 @@
-# a3-time
+# a3-farmboost
 SQF Farmboost Implementation for Altis Life by Tonic
 
 * requires extDB3
